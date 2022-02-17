@@ -17,7 +17,10 @@ python plots.py
 
 ## Sensitivity Analysis (WARNING: Takes Days!)
 
-Perform sensitivity analysis on Evo Genoa run:
+You can look at a pre-made version of the results under the
+Jupyter notebook "Sensitivity Analysis.ipynb".
+
+or you can perform sensitivity analysis on Evo Genoa run:
 
 ```
 python sensitivity.py
