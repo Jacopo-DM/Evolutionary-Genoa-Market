@@ -25,6 +25,7 @@ python sensitivity.py
 
 ## Directory Structure
 
+```
 ./
 ├── README.md (this file)
 ├── EvoMarket.py:   The new model we made
@@ -40,3 +41,4 @@ python sensitivity.py
 ├── data:           Output directory for 'data.py'
 ├── plots:          Output directory for 'plots.py' (main code to run)
 ├── requirements.txt
+```
