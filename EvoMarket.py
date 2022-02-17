@@ -437,7 +437,7 @@ def __test__() -> None:
         Market,
         parameters=params,
         max_steps=steps-1,
-        iterations=2,
+        iterations=1,
         number_processes=8,
         data_collection_period=1,
         display_progress=True,
