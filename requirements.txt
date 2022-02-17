@@ -58,7 +58,6 @@ lxml==4.8.0
 MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1635833843092/work
 matplotlib==3.5.1
 matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1631080358261/work
--e git+https://github.com/projectmesa/mesa.git@c30ab5eef5ef0f62127cd4a71a9f8bc97df21678#egg=Mesa
 mistune @ file:///Users/runner/miniforge3/conda-bld/mistune_1635845001896/work
 multiprocess==0.70.12.2
 mypy-extensions @ file:///Users/runner/miniforge3/conda-bld/mypy_extensions_1635840109758/work
